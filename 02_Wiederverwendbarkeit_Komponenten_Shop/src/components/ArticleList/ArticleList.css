@@ -1,0 +1,13 @@
+/* .grid-layout {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2vw;
+} */
+
+.list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 15px;
+  text-align: center;
+  width: 150px;
+}
