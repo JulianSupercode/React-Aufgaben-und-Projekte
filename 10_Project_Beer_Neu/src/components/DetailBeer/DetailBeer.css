@@ -1,0 +1,15 @@
+.detail-beer button {
+  background-color: transparent;
+  border: none;
+  margin-bottom: 2rem;
+}
+
+.detail-beer h3 {
+  color: gray;
+  font-size: 0.7rem;
+  line-height: 0.3rem;
+}
+
+img {
+  max-width: 350px;
+}
